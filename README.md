@@ -1,2 +1,2 @@
-# Codes-for-generating-and-modelling-mechanics-of-network-structure
+# Codes-for-generating-and-modelling-mechanics-of-network-structures
 This contain my codes developed for my PhD thesis.
